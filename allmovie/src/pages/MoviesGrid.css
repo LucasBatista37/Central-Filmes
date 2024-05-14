@@ -27,6 +27,8 @@
     justify-content: space-between;
     background-color: #111;
     padding: 1rem;
+    border-radius: 10px; /* Adicionando borda arredondada */
+    transition: box-shadow 0.3s ease; /* Adicionando transição para o efeito hover */
 }
 
 .movies-container div img {
@@ -59,4 +61,8 @@
 .movies-container div a:hover {
     background-color: transparent;
     color: #f7d354;
+}
+
+.movies-container div:hover {
+    box-shadow: 0px 0px 15px 0px rgba(247, 211, 84, 0.75); /* Adicionando efeito de sombra no hover */
 }
