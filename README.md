@@ -82,12 +82,6 @@ yarn preview
 ```
 ---
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](https://chatgpt.com/c/LICENSE). Sinta-se livre para usar, modificar e distribuir à vontade.
-
----
-
 ## Contato
 
 -   [Lucas Batista](https://github.com/LucasBatista37)
